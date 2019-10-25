@@ -7,7 +7,7 @@
     s.license              = { :type => "MIT", :file => "LICENSE" }
     s.author             = { "mate" => "2636330180@qq.com" }
     s.source       = { :git => "https://github.com/ctxiaowei/SDKDemo", :tag => s.version }
-    #s.source_files  = "CFMobAdSDK/*"
+    s.source_files  = "SDKDemo/*"
     #s.resources          = "CFMobAdSDK/CFMobAdSDK.bundle"
     s.frameworks = 'Foundation', 'UIKit', 'CoreLocation'
     s.vendored_frameworks = 'sdkDemo1.framework'
