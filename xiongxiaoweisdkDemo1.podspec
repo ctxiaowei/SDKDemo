@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name         = "sdkDemo1"
+    s.name         = "xiongxiaoweisdkDemo1"
     s.version      = "1.0.1"
     s.ios.deployment_target = '9.0'
     s.summary      = "广告sdk,一个简单的广告SDK."
